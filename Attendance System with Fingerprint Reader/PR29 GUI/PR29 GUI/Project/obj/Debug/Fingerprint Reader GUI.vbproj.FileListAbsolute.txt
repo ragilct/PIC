@@ -1,0 +1,13 @@
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\obj\Debug\Fingerprint Reader GUI.vbproj.ResolveComReference.cache
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\obj\Debug\learn_with_sample.exe
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\obj\Debug\learn_with_sample.xml
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\obj\Debug\learn_with_sample.pdb
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\bin\Debug\learn_with_sample.exe
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\bin\Debug\learn_with_sample.pdb
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\bin\Debug\learn_with_sample.xml
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\obj\Debug\learn_with_sample.Form1.resources
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\obj\Debug\learn_with_sample.Resources.resources
+C:\Users\Trainee\Documents\Visual Studio 2008\Projects\learn_with_sample\learn_with_sample\obj\Debug\Fingerprint Reader GUI.vbproj.GenerateResource.Cache
+C:\Users\Trainee\Desktop\PR29\Source Code\PC\Project\obj\Debug\Fingerprint Reader GUI.vbproj.ResolveComReference.cache
+C:\Users\Trainee\Desktop\PR29 (Attendance system with fingerprint reader)\Source Code\PC\Project\obj\Debug\Fingerprint Reader GUI.vbproj.ResolveComReference.cache
